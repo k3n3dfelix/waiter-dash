@@ -1,4 +1,4 @@
-# waiter-dash
+# Waiter-Dash
 Aplicação web com a finalidade de gerenciar o recebimento de pedidos de um restaurante feito por um aplicativo
 
 Em desenvolvimento...
@@ -7,6 +7,16 @@ Em desenvolvimento...
   <img src="https://github.com/k3n3dfelix/waiter-dash/blob/main/screens/waiter-app.PNG" alt="home" >
 </p>
 
+<br>
+
+## Tecnologias
+
+Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
+
+- [ReactJs](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
 <br>
 
 ## :wrench: Instalação e uso
