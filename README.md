@@ -20,7 +20,7 @@ cd waiter-dash
 # Instale as dependências
 yarn install
 # Rode a aplicação
-yarn start
+yarn dev
 # Acesse http://localhost:3000 no seu navegador
 ```
 
