@@ -1,8 +1,6 @@
 # Waiter-Dash
 Aplicação web com a finalidade de gerenciar o recebimento de pedidos de um restaurante feito por um aplicativo
 
-Em desenvolvimento...
-
 <p align="center">
   <img src="https://github.com/k3n3dfelix/waiter-dash/blob/main/screens/waiter-app.PNG" alt="home" >
 </p>
